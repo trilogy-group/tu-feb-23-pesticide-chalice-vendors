@@ -1,1 +1,0 @@
-# process-bp-chalice-vendors
